@@ -132,7 +132,7 @@ threadpoolctl==3.1.0
 tinycss2==1.2.1
 tomli==2.0.1
 tornado==6.3.3
-tqdm==4.64.1
+tqdm==4.66.3
 traitlets==5.8.1
 uri-template==1.2.0
 urllib3==1.26.18
