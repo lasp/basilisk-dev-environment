@@ -29,7 +29,7 @@ fasteners==0.18
 fastjsonschema==2.16.2
 fonttools==4.43.0
 fqdn==1.5.1
-idna==3.4
+idna==3.7
 iniconfig==2.0.0
 ipympl==0.9.3
 ipdb==0.13.13
